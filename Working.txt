@@ -6,4 +6,6 @@ player  to replay or exit the game. Then game will ask player to choose Rock,
 Paper or Scissor then computer will play its chance and selects Rock, Paper or
 Scissor, if you wins game will  congrats you for winning then ask you same to 
 choose rock, paper or scissor this will continue untill any player reaches the
-selected gaol of score.
+selected gaol of score, if you loses the game then game will again ask you to 
+choose rock, paper or scissor and if the game ties, game will tell both player
+about tie and again ask both palyer to choose one option:)
