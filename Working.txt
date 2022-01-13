@@ -1,5 +1,9 @@
 # This is the basic level C language programmed game of Rock, Paper and Scissor,
 user can play this game against computer multiple times the user wants, first 
-the game will ask player to select Rock, Paper or Scissor then computer will
-play its chance and selects Rock, Paper or Scissor, if if you wins game will 
-congrats you for winning
+the game will ask player to select his or her goal of score for winning, first
+player to reach to the selected goal will win the game and game will again ask 
+player  to replay or exit the game. Then game will ask player to choose Rock,
+Paper or Scissor then computer will play its chance and selects Rock, Paper or
+Scissor, if you wins game will  congrats you for winning then ask you same to 
+choose rock, paper or scissor this will continue untill any player reaches the
+selected gaol of score.
