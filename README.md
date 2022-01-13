@@ -1,1 +1,1 @@
-# C-Language-Programmed-Rock-Paper-Scissor-Game
+# C-Language-Programmed-Rock-Paper-Scissor-game
