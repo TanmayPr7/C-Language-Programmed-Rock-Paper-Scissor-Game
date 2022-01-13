@@ -9,3 +9,10 @@ choose rock, paper or scissor this will continue untill any player reaches the
 selected gaol of score, if you loses the game then game will again ask you to 
 choose rock, paper or scissor and if the game ties, game will tell both player
 about tie and again ask both palyer to choose one option:)
+
+# Basically, the game will start with asking user to set the goal for winnig
+the number of goal selected will be saved in a variable, then game will ask 
+user to choose one from Rock, Paper or Scissor, the option choosedby user will
+be saved and the computer will play its chance, firstly according to program
+code will generate any random number between 1 to 100. Then if number is betwwen
+1 to 33 compiter's chance will be Rock.
