@@ -23,3 +23,5 @@ one, iff computer wins game will congrats computer and if game ties, then the ga
 will again tells both palyer to choose one option, this will continue untill one
 player of then reaches gaol setted. The first to reach goal will win the game and
 then game will ask from user to replay or exit the game:)
+
+# This is the basic working principle of this game project:)
