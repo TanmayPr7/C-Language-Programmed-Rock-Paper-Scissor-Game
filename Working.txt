@@ -15,4 +15,11 @@ the number of goal selected will be saved in a variable, then game will ask
 user to choose one from Rock, Paper or Scissor, the option choosedby user will
 be saved and the computer will play its chance, firstly according to program
 code will generate any random number between 1 to 100. Then if number is betwwen
-1 to 33 compiter's chance will be Rock.
+1 to 33 computer's chance will be Rock, if number is between 33 to 66 computer's 
+chance will be Paper and if random number is greater than 66 then computer's
+chance will Scissor. Then according to source code game will compare both player 
+choices and if user wins game will congrats the player and again ask user to choose
+one, iff computer wins game will congrats computer and if game ties, then the game
+will again tells both palyer to choose one option, this will continue untill one
+player of then reaches gaol setted. The first to reach goal will win the game and
+then game will ask from user to replay or exit the game:)
