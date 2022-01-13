@@ -3,3 +3,10 @@
 2.GCC Compiler for compling C language programmes
 3.Device for programming(PC or Laptop)
 4.Code to generate Random Numbers
+
+# Header Files Required
+1.Stdio.h
+2.Stdlib.h
+3.Time.h
+
+#That's it these are all the basic requirements for this project:)
