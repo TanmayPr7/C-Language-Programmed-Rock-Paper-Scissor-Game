@@ -94,3 +94,21 @@ int setup()
     }
     printf("                               ***************Thank you for playing our game:)***************\n");
 }
+
+int main(){
+    int f;
+    while(1){
+        printf("Press 1 to Start Game:)\n");
+        printf("Press 0 to Exit Game:)\n");
+        scanf("%d",&f);
+        if(f==1){
+            setup();
+            printf("************************************************************************************************************************\n");
+        }
+        else{
+            return 0;
+        }
+    }
+    return 0;
+}
+
