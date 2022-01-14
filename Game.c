@@ -28,3 +28,37 @@ int setup()
         else{
             opp=3;
         }
+        
+        printf("Score: Opp = %d\t You = %d\n",x,y);
+        printf("Enter '1' for rock '2' for paper and '3' for scissor:)\n");
+        scanf("%d",&you);
+        if(you==1 || you==2 || you==3){
+
+            if(you==opp){
+                result=0;
+            }
+
+            if(you==1 && opp==3){
+                result=1;
+                y++;
+            }
+            else if(you==3 && opp==1){
+                result=-1;
+                x++;
+            }
+            if(you==3 && opp==2){
+                result=1;
+                y++;
+            }
+            else if(you==2 && opp==3){
+                result=-1;
+                x++;
+            }
+            if(you==2 && opp==1){
+                result=1;
+                y++;
+            }
+            else if(you==1 && opp==2){
+                result=-1;
+                x++;
+            }
