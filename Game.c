@@ -62,3 +62,24 @@ int setup()
                 result=-1;
                 x++;
             }
+             
+            if(result==0){
+                printf("Game draw:(\n");
+                printf("***********************************************\n\n");
+            }
+            else if(result==1){
+                printf("You are the winner:)\n");
+                printf("***********************************************\n\n");
+            }
+            else
+            {
+                printf("You lose:(\n");
+                printf("***********************************************\n\n");
+            }
+
+        }
+        else{
+            printf("Error:(\n");
+            printf("I Think you have Pressed wrong Key number please Press correct key Play game:(\n");
+            printf("*************************************************************************************************\n\n");
+        }
