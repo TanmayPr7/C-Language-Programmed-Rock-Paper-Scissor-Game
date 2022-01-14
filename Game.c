@@ -83,3 +83,14 @@ int setup()
             printf("I Think you have Pressed wrong Key number please Press correct key Play game:(\n");
             printf("*************************************************************************************************\n\n");
         }
+    }
+    if(w==y){
+        printf("Score: Opp = %d\t You = %d\n",x,y);
+        printf("## You won the Game:) ##\n");
+    }
+    else{
+        printf("Score: Opp = %d\t You = %d\n",x,y);
+        printf("## Opp won the game:( ##\n");
+    }
+    printf("                               ***************Thank you for playing our game:)***************\n");
+}
